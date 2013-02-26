@@ -21,7 +21,7 @@ namespace Practica2
 				Cronometro cronometro = new Cronometro();
 				cronometro.iniciar();
 			}
-		}
+		}      
 		
 		public static void Main (string[] args)
 		{
